@@ -23,6 +23,9 @@
 	#			replace authorization REDACTED
 	#		}
 	#	}
+	#
+	#   # If you need a log in JSON format
+	#	format jsonselect "{level} {ts} {logger} {msg} {status} {duration}"
 	#}
 
 	root public/
